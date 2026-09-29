@@ -1,10 +1,14 @@
 # Hi there, I'm Vilca Guillermo 👋
 I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facultad Regional Mendoza), passionate about technology, software development, and continuous learning.
 
+---
+
 ## 🎓 Academic Background
 - **Institution:** Universidad Tecnológica Nacional Facultad Regional Mendoza (UTN FRM)
 - **Degree / Program:** Electronic Engineering
 - **Status:** Currently enrolled
+
+---
   
 ## 🛠️ Tech Stack & Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -19,10 +23,16 @@ I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facult
 ![KiCad](https://img.shields.io/badge/KiCad-314199?style=for-the-badge&logo=kicad&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51010?style=for-the-badge&logo=autodesk&logoColor=white)
 
+---
+
 ## 🌱 Currently Learning & Interests
 - 📚 Expanding my knowledge in software development and version control.
 - 🎯 Developing strong fundamentals in software architecture and problem solving.
 - 🤝 Open to collaborating on academic and open source projects.
 
+---
+
 ## 📫 How to Reach Me
 - **Email:** [vilcaguillermo8@gmail.com](vilcaguillermo8@gmail.com)
+
+---
