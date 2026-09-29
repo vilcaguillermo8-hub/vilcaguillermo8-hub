@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**vilcaguillermo8-hub/vilcaguillermo8-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Hi there, I'm Vilca Guillermo 👋
+I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facultad Regional Mendoza), passionate about technology, software development, and continuous learning.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
