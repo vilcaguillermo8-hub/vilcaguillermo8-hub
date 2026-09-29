@@ -4,9 +4,10 @@ I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facult
 ## 🎓 Academic Background
 - **Institution:** Universidad Tecnológica Nacional Facultad Regional Mendoza (UTN FRM)
 - **Degree / Program:** Electronic Engineering
-
-🛠️ Tech Stack & Tools
-C++ C HTML5 Arduino Processing
+- **Status:** Currently enrolled
+  
+## 🛠️ Tech Stack & Tools
+ C++ C HTML5 Arduino Processing
 
 ## 🌱 Currently Learning & Interests
 - 📚 Expanding my knowledge in software development and version control.
