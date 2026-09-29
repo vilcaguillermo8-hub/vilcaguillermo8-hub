@@ -3,7 +3,7 @@ I am an engineering student at UTN FRM (National Technological University, Mendo
 
 ## 🎓 Academic Background
 - **Institution:** National Technological University, Mendoza Regional Faculty (UTN FRM)
-- **Degree / Program:** Electronic Engineering
+- **Career:** Electronic Engineering
 - **Status:** Currently enrolled
   
 ## 🛠️ Tech Stack & Tools
