@@ -1,8 +1,8 @@
 # Hi there, I'm Vilca Guillermo 👋
-I am an engineering student at UTN FRM (National Technological University, Mendoza Regional Faculty), passionate about technology, software development, and continuous learning.
+I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facultad Regional Mendoza), passionate about technology, software development, and continuous learning.
 
 ## 🎓 Academic Background
-- **Institution:** National Technological University, Mendoza Regional Faculty (UTN FRM)
+- **Institution:** Universidad Tecnológica Nacional Facultad Regional Mendoza (UTN FRM)
 - **Career:** Electronic Engineering
 - **Status:** Currently enrolled
   
