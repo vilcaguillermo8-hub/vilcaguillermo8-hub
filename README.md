@@ -14,6 +14,10 @@ I am an engineering student at UTN FRM (Universidad Tecnológica Nacional Facult
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314199?style=for-the-badge&logo=kicad&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51010?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ## 🌱 Currently Learning & Interests
 - 📚 Expanding my knowledge in software development and version control.
